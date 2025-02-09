@@ -12,7 +12,9 @@ This repository contains AWS tutorials, guides, and resources to help users lear
 - **DynamoDB** (NoSQL Database)  
 - **Route 53** (DNS & Domain Management)  
 - **Git** (Version Control & Repository Management)  
-- **Elastic Beanstalk** (Application Deployment)  
+- **Elastic Beanstalk** (Application Deployment)
+
+- by abhishekdeokar2002@gmail.com
 
 ## 🚀 Getting Started  
  https://github.com/YourUsername/aws-tutorials.git
